@@ -103,12 +103,14 @@ This structure supports flexible PivotTable and PivotChart analysis.
 
 ## 📁 Project Files
 
+## 📁 Project Files
+
 | File | Description |
 |---|---|
-| `Student_Performance_Dashboard.xlsx` | Complete Excel workbook |
-| `dashboard.png` | Interactive dashboard screenshot |
-| `data-analysis.png` | Data analysis screenshot |
-| `printable-marksheet.png` | Printable marksheet screenshot |
+| [Student_Performance_Dashboard.xlsx](Student_Performance_Dashboard.xlsx) | Complete Excel workbook |
+| [dashboard.png](dashboard.png) | Interactive dashboard screenshot |
+| [data-analysis.png](data-analysis.png) | Data analysis screenshot |
+| [printable-marksheet.png](printable-marksheet.png) | Printable marksheet screenshot |
 
 ## 💡 Key Learning
 
