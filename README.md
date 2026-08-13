@@ -103,8 +103,6 @@ This structure supports flexible PivotTable and PivotChart analysis.
 
 ## 📁 Project Files
 
-## 📁 Project Files
-
 | File | Description |
 |---|---|
 | [Student_Performance_Dashboard.xlsx](Student_Performance_Dashboard.xlsx) | Complete Excel workbook |
